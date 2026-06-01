@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hola, soy Julián Cortes Perdomo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Tecnólogo+en+Desarrollo+de+Software;Full+Stack+%7C+Mobile+%7C+IA+aplicada;Fundador+de+Victorem+18K+🚀;Campoalegre%2C+Huila%2C+Colombia+🇨🇴" alt="Typing SVG" />
+  <b>Tecnólogo en Desarrollo de Software · Full Stack · Mobile · IA aplicada</b><br/>
+  📍 Campoalegre, Huila, Colombia 🇨🇴
 </p>
 
 <p align="center">
@@ -16,10 +17,9 @@
 
 Tecnólogo en Desarrollo de Software con experiencia práctica en **desarrollo web full stack** y **aplicaciones móviles Android**. He llevado proyectos propios desde el diseño hasta producción, integrando backend, base de datos y pasarela de pagos. Aplico **Spec-Driven Development (SDD)** para estructurar el trabajo con agentes de IA y gestiono tareas con metodologías ágiles.
 
-- 📍 Campoalegre, Huila, Colombia
 - 🎓 Tecnólogo en Desarrollo de Software — Universidad Surcolombiana
-- 🏢 Fundador y desarrollador de **Victorem 18K** (e-commerce de joyas en oro laminado)
-- 🤖 Uso activo de IA aplicada al desarrollo con metodología SDD
+- 🏢 Fundador y desarrollador de **Victorem 18K** (e-commerce de joyas en oro laminado 18K)
+- 🤖 Uso activo de IA aplicada al desarrollo con metodología **SDD**
 - 🌐 Inglés intermedio (B1)
 
 ---
@@ -56,12 +56,8 @@ Tecnólogo en Desarrollo de Software con experiencia práctica en **desarrollo w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cortesperdomojulian6-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortesperdomojulian6-max&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cortesperdomojulian6-max&theme=tokyonight&hide_border=true&locale=es" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cortesperdomojulian6-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortesperdomojulian6-max&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -71,35 +67,39 @@ Tecnólogo en Desarrollo de Software con experiencia práctica en **desarrollo w
 ### ⚡ [Victorem 18K](https://github.com/cortesperdomojulian6-max/VICTOREM18K)
 > E-commerce completo para venta de joyas artesanales en oro laminado 18K
 
-- 🖥️ Frontend en **TypeScript / Next.js** con sistema de diseño propio
-- ⚙️ Backend **REST en Node.js / Express** con autenticación JWT
-- 🗄️ Base de datos **PostgreSQL** (Neon) con CI/CD via GitHub Actions
+- 🖥️ Frontend en **TypeScript / Next.js** con sistema de diseño propio en CSS Custom Properties
+- ⚙️ Backend **REST en Node.js / Express** con autenticación JWT y refresh token silencioso
+- 🗄️ Base de datos **PostgreSQL** (Neon) con scripts de inicialización y CI/CD via GitHub Actions
 - 💳 Integración de pasarela **Wompi** (Nequi, PSE, Bancolombia, tarjeta)
+- 🛠️ Carrito persistente, panel de administración y configurador de joyas en 5 pasos
 - 🚀 Deploy en **Vercel** con suite de tests en Vitest
 
 ---
 
 ### 🎬 [MovieApp](https://github.com/cortesperdomojulian6-max/MovieApp)
-> App Android para explorar películas — Proyecto final de Dispositivos Móviles
+> App Android para explorar películas — Proyecto final de Dispositivos Móviles (Mayo 2026)
 
 - 📱 **Kotlin + Jetpack Compose** con arquitectura MVVM
 - 🌐 Consumo de API REST (TMDB) con **Retrofit**
 - 💾 Favoritos persistidos con **Room (SQLite)**
-- 🌙 Modo oscuro/claro, búsqueda y Corrutinas
+- 🌙 Modo oscuro/claro, búsqueda y operaciones asíncronas con Corrutinas y StateFlow
 
 ---
 
 ### ☕ [CoffeePOS](https://github.com/cortesperdomojulian6-max/CoffeePOS) · 🛒 [ShopOnline Huila](https://github.com/cortesperdomojulian6-max/ShopOnline_Huila)
-> Proyectos académicos colaborativos — Python y PHP respectivamente
+> Proyectos académicos colaborativos con roles en frontend y backend
+
+- CoffeePOS en **Python** · ShopOnline en **PHP**
+- Trabajo en equipo con control de versiones en GitHub
 
 ---
 
 ## 🤖 IA aplicada al desarrollo
 
 Uso activo de modelos de IA (Claude, OpenCode y otros) con metodología **Spec-Driven Development (SDD)** para:
-- Planificación estructurada de features
-- Revisión y generación de código
-- Automatización de tareas repetitivas
+- Planificación estructurada de features antes de codificar
+- Revisión y generación de código asistida
+- Automatización de tareas repetitivas del flujo de trabajo
 
 ---
 
