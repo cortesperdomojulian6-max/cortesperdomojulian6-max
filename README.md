@@ -50,11 +50,12 @@ Tecnólogo en Desarrollo de Software con nivel **junior** y enfoque en **desarro
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Actividad reciente
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cortesperdomojulian6-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortesperdomojulian6-max&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cortesperdomojulian6-max&theme=tokyo-night&hide_border=true&hide_title=false&area=true&bg_color=0d1117&color=7b61ff&line=c8ff00&point=c8ff00&area_color=c8ff00" width="100%">
+  </a>
 </p>
 
 ---
