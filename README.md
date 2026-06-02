@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Julián Cortes Perdomo</h1>
 
 <p align="center">
-  <b>Tecnólogo en Desarrollo de Software · Full Stack · Mobile · IA aplicada</b><br/>
+  <b>Tecnólogo en Desarrollo de Software · Full Stack · IA aplicada</b><br/>
   📍 Campoalegre, Huila, Colombia 🇨🇴
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Tecnólogo en Desarrollo de Software con experiencia práctica en **desarrollo web full stack** y **aplicaciones móviles Android**. He llevado proyectos propios desde el diseño hasta producción, integrando backend, base de datos y pasarela de pagos. Aplico **Spec-Driven Development (SDD)** para estructurar el trabajo con agentes de IA y gestiono tareas con metodologías ágiles.
+Tecnólogo en Desarrollo de Software con nivel **junior** y enfoque en **desarrollo web full stack**. He construido proyectos desde el diseño hasta producción —frontend, backend, APIs, bases de datos y despliegue en la nube— integrando pasarelas de pago reales y flujos completos de e-commerce. Aplico **Spec-Driven Development (SDD)** para estructurar el trabajo con agentes de IA.
 
 - 🎓 Tecnólogo en Desarrollo de Software — Universidad Surcolombiana
 - 🏢 Fundador y desarrollador de **Victorem 18K** (e-commerce de joyas en oro laminado 18K)
@@ -30,9 +30,8 @@ Tecnólogo en Desarrollo de Software con experiencia práctica en **desarrollo w
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend & Backend**
@@ -43,10 +42,8 @@ Tecnólogo en Desarrollo de Software con experiencia práctica en **desarrollo w
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Mobile & DevOps**
+**DevOps & Herramientas**
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,18 +73,27 @@ Tecnólogo en Desarrollo de Software con experiencia práctica en **desarrollo w
 
 ---
 
+### 💼 [Portfolio](https://github.com/cortesperdomojulian6-max/portfolio)
+> Portfolio web interactivo con diseño oscuro, animaciones y despliegue continuo
+
+- 🎨 Diseño oscuro con neón, cursor custom, animaciones en canvas
+- ⚡ HTML + CSS + JavaScript vanilla, sin frameworks
+- 📱 Diseño responsive con dos breakpoints
+- 🚀 Desplegado en **Vercel** — [julian-cortes-portfolio.vercel.app](https://julian-cortes-portfolio.vercel.app)
+
+---
+
 ### 🎬 [MovieApp](https://github.com/cortesperdomojulian6-max/MovieApp)
-> App Android para explorar películas — Proyecto final de Dispositivos Móviles (Mayo 2026)
+> App Android para explorar películas — Proyecto académico
 
 - 📱 **Kotlin + Jetpack Compose** con arquitectura MVVM
 - 🌐 Consumo de API REST (TMDB) con **Retrofit**
 - 💾 Favoritos persistidos con **Room (SQLite)**
-- 🌙 Modo oscuro/claro, búsqueda y operaciones asíncronas con Corrutinas y StateFlow
 
 ---
 
 ### ☕ [CoffeePOS](https://github.com/cortesperdomojulian6-max/CoffeePOS) · 🛒 [ShopOnline Huila](https://github.com/cortesperdomojulian6-max/ShopOnline_Huila)
-> Proyectos académicos colaborativos con roles en frontend y backend
+> Proyectos académicos colaborativos
 
 - CoffeePOS en **Python** · ShopOnline en **PHP**
 - Trabajo en equipo con control de versiones en GitHub
@@ -108,8 +114,8 @@ Uso activo de modelos de IA (Claude, OpenCode y otros) con metodología **Spec-D
 | | |
 |---|---|
 | 📧 Email | cortesperdomojulian6@gmail.com |
-| 📱 Teléfono | 310 7875531 |
 | 💼 LinkedIn | [julian-cortes-perdomo](https://linkedin.com/in/julian-cortes-perdomo-a0ba803a2) |
+| 🌐 Portfolio | [julian-cortes-portfolio.vercel.app](https://julian-cortes-portfolio.vercel.app) |
 | 📍 Ubicación | Campoalegre, Huila, Colombia |
 
 ---
