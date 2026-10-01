@@ -1,25 +1,28 @@
 <h1 align="center">👋 Hola, soy Julián Cortes Perdomo</h1>
 
 <p align="center">
-  <b>Tecnólogo en Desarrollo de Software · Full Stack · IA aplicada</b><br/>
-  📍 Campoalegre, Huila, Colombia 🇨🇴
+  <b>Desarrollador Web Full Stack Junior · Tecnólogo en Desarrollo de Software</b><br/>
+  <i>Junior Full Stack Web Developer — open to work</i><br/>
+  📍 Campoalegre, Huila, Colombia 🇨🇴 · 🟢 Disponible para trabajo
 </p>
 
 <p align="center">
   <a href="mailto:cortesperdomojulian6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/julian-cortes-perdomo-a0ba803a2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/cortesperdomojulian6-max"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://julian-cortes-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Tecnólogo en Desarrollo de Software con nivel **junior** y enfoque en **desarrollo web full stack**. He construido proyectos desde el diseño hasta producción —frontend, backend, APIs, bases de datos y despliegue en la nube— integrando pasarelas de pago reales y flujos completos de e-commerce. Aplico **Spec-Driven Development (SDD)** para estructurar el trabajo con agentes de IA.
+Tecnólogo en Desarrollo de Software con nivel **junior** y pasión por el **desarrollo web**. Construyo aplicaciones completas: interfaz, base de datos, pagos reales y despliegue en la nube.
+
+Mi proyecto principal, **Victorem 18K**, es una tienda en línea que desarrollé y que opera con un negocio real de joyería artesanal. Ahí trabajé con pasarela de pagos, pedidos reales y corrección de errores en producción. Busco mi primer rol como desarrollador junior para aportar desde el día uno y seguir creciendo en un equipo.
 
 - 🎓 Tecnólogo en Desarrollo de Software — Universidad Surcolombiana
-- 🏢 Fundador y desarrollador de **Victorem 18K** (e-commerce de joyas en oro laminado 18K)
-- 🤖 Uso activo de IA aplicada al desarrollo con metodología **SDD**
+- 🏢 Creador de **Victorem 18K** (e-commerce de joyas en oro laminado 18K)
+- 🤖 Uso IA como herramienta de trabajo con **Spec-Driven Development (SDD)**
 - 🌐 Inglés intermedio (B1)
 
 ---
@@ -31,7 +34,8 @@ Tecnólogo en Desarrollo de Software con nivel **junior** y enfoque en **desarro
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend & Backend**
@@ -39,7 +43,7 @@ Tecnólogo en Desarrollo de Software con nivel **junior** y enfoque en **desarro
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **DevOps & Herramientas**
@@ -47,30 +51,21 @@ Tecnólogo en Desarrollo de Software con nivel **junior** y enfoque en **desarro
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📈 Actividad reciente
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cortesperdomojulian6-max&theme=tokyo-night&hide_border=true&hide_title=false&area=true&bg_color=0d1117&color=7b61ff&line=c8ff00&point=c8ff00&area_color=c8ff00" width="100%">
-  </a>
-</p>
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos destacados
 
 ### ⚡ [Victorem 18K](https://github.com/cortesperdomojulian6-max/VICTOREM18K)
-> E-commerce completo para venta de joyas artesanales en oro laminado 18K
+> E-commerce completo para venta de joyas artesanales en oro laminado 18K. Proyecto en producción con un negocio real.
 
 - 🖥️ Frontend en **TypeScript / Next.js** con sistema de diseño propio en CSS Custom Properties
-- ⚙️ Backend **REST en Node.js / Express** con autenticación JWT y refresh token silencioso
-- 🗄️ Base de datos **PostgreSQL** (Neon) con scripts de inicialización y CI/CD via GitHub Actions
+- 🗄️ Base de datos y backend sobre **Supabase (PostgreSQL)**
 - 💳 Integración de pasarela **Wompi** (Nequi, PSE, Bancolombia, tarjeta)
 - 🛠️ Carrito persistente, panel de administración y configurador de joyas en 5 pasos
-- 🚀 Deploy en **Vercel** con suite de tests en Vitest
+- ✅ Pruebas con **Vitest** y CI con **GitHub Actions**
+- 🚀 Deploy en **Vercel**
 
 ---
 
@@ -103,10 +98,10 @@ Tecnólogo en Desarrollo de Software con nivel **junior** y enfoque en **desarro
 
 ## 🤖 IA aplicada al desarrollo
 
-Uso activo de modelos de IA (Claude, OpenCode y otros) con metodología **Spec-Driven Development (SDD)** para:
-- Planificación estructurada de features antes de codificar
-- Revisión y generación de código asistida
-- Automatización de tareas repetitivas del flujo de trabajo
+Uso modelos de IA (Claude, OpenCode y otros) como apoyo, no como reemplazo del criterio propio. Con **Spec-Driven Development (SDD)**:
+- Defino la especificación de cada feature antes de codificar
+- Implemento con asistencia de IA
+- Reviso, pruebo y corrijo el código antes de integrarlo
 
 ---
 
@@ -120,9 +115,5 @@ Uso activo de modelos de IA (Claude, OpenCode y otros) con metodología **Spec-D
 | 📍 Ubicación | Campoalegre, Huila, Colombia |
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cortesperdomojulian6-max&color=6366f1&style=flat-square&label=Visitas+al+perfil" />
-</p>
 
 <p align="center">⭐ <i>Si algún proyecto te es útil, una estrella siempre se agradece</i> ⭐</p>
